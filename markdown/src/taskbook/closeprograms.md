@@ -4,7 +4,7 @@ author: Howe Tuduit
 
 # Close all of your programs
 
-You need to shut down everything else before installing major programs
+Tarvitset tehdä jotakin.
 
 1.  If you are on a Windows system, click the X in the corner of each program.
 
