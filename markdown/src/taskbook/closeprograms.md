@@ -4,7 +4,7 @@ author: Howe Tuduit
 
 # Close all of your programs
 
-Tarviset tehdä jotakin muuta-
+Tarviset tehdä jotakin muuta.
 
 1.  If you are on a Windows system, click the X in the corner of each program.
 
